@@ -16,12 +16,4 @@ I am a mobile developer focused on building applications using Flutter and Dart.
 **MAINS**
 A health and nutrition monitoring application built with Flutter. It utilizes Firebase for database management and Bluetooth (BLE) for the initial hardware configuration.
 
-**SiPiLah**
-A mobile application for a smart irrigation system deployed in Ponjong. It provides a control interface to monitor and manage watering hardware.
-
-**InfraConnect**
-A mobile dashboard application for home automation that reads and controls hardware states. This project won 3rd place at the ACARDIA Award 2026.
-
----
-
 <sub>📍 Yogyakarta, Indonesia</sub>
